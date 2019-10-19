@@ -1,10 +1,16 @@
 # ykt
 Use a Yubikey as TOTP.
 
-./ykt list  
-./ykt get name  
-./ykt set name secret  
-./ykt del name  
+```
+
+./ go build -ldflags "-s -w" -o ykt main.go
+
+./ykt list
+./ykt get name
+./ykt set name secret
+./ykt del name
+
+```
 
 ### License
 
