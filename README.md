@@ -12,6 +12,3 @@ Use a Yubikey as TOTP.
 
 ```
 
-### License
-
-released under the GPL 3 license.
